@@ -1,7 +1,7 @@
 Thanks for checking out my Portfolio.
 
-We utilized bootstrap and a few other tools to get our result.
+Please feel free to exploremy page and check out some of the recent projects I have been working on.
 
-We are not done with it but will be finalizing soon.
+
 
 
